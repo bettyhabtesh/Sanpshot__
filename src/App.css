@@ -1,0 +1,106 @@
+/** @format 
+
+.App {
+  text-align: center;
+  margin: auto;
+  padding: 0%;
+  width: 70%;
+  height: 100%;
+  background-color: rgb(166, 122, 208);
+}
+h1 {
+  font-family: cursive;
+  color: rgb(241, 239, 241);
+  font-size: 50px;
+}
+h2 {
+  font-family: "Courier New", Courier, monospace;
+  color: rgb(241, 239, 241);
+  font-size: 30px;
+}
+h3 {
+  font-family: "Courier New", Courier, monospace;
+  color: rgb(241, 239, 241);
+  font-size: 20px;
+}
+h4 {
+  font-family: "Courier New", Courier, monospace;
+  color: rgb(241, 239, 241);
+  font-size: 15px;
+}
+.usercondition button {
+  width: 70px;
+  height: 20px;
+  background-color: rgb(93, 9, 171);
+  border-radius: 3px;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 10px;
+  font-weight: bold;
+  color: aliceblue;
+  box-shadow: none;
+}
+
+.searchbar {
+  border: solid;
+  border-color: rgb(118, 35, 173);
+  width: 300px;
+  height: 30px;
+  margin: auto;
+  background-color: rgb(222, 214, 214);
+}
+input {
+  border: none;
+  margin: 0;
+  padding: 7px 8px;
+  font-size: 14px;
+  color: aliceblue;
+  background-color: rgb(222, 214, 214);
+}
+/*fa-solid fa-magnifying-glass {
+  width: 50px;
+  height: 30px;
+  background-color: black;
+  color: white;
+}
+.links {
+  display: inline-block;
+  margin-right: 50px;
+}
+.parentnav button {
+  width: 120px;
+  height: 30px;
+  background-color: rgb(93, 9, 171);
+  border-radius: 3px;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 20px;
+  font-weight: bold;
+  color: aliceblue;
+  box-shadow: none;
+}
+button:hover {
+  background-color: rgb(171, 53, 226);
+  color: rgb(47, 8, 84);
+  border: none;
+  box-shadow: none;
+}
+img {
+  width: 200px;
+  height: 200px;
+}
+.column {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}*/
+
+/* Create two equal columns that sits next to each other 
+.row {
+  flex: 50%;
+  padding: 0 4px;
+}
+
+.row img {
+  margin-top: 8px;
+  vertical-align: middle;
+  margin-right: 16px;
+}*/
